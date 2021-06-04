@@ -1,0 +1,22 @@
+{
+  "name": "cmute-website-api",
+  "version": "1.0.0",
+  "description": "An Express API for the CMU T&E website",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffjxu/cmute-website-api.git"
+  },
+  "author": "Jeff Xu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeffjxu/cmute-website-api/issues"
+  },
+  "homepage": "https://github.com/jeffjxu/cmute-website-api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
